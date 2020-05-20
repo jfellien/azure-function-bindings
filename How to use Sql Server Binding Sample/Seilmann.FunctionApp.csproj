@@ -16,6 +16,6 @@
         </None>
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\Seilmann.SqlServer.Binding\Seilmann.SqlServer.Binding.csproj" />
+      <ProjectReference Include="..\Sql Server Binding - Sample\Seilmann.SqlServer.Binding.csproj" />
     </ItemGroup>
 </Project>
